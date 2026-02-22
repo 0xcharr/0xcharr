@@ -66,11 +66,13 @@ I'm a passionate **Full Stack Developer** who loves building innovative web appl
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xcharr&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=14F4C9)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=0xcharr&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xcharr&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xcharr&layout=compact&theme=default)
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=0xcharr&theme=radical&hide_border=true&background=0D1117&ring=FF6B35&fire=14F4C9&currStreakLabel=14F4C9)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=0xcharr&theme=github)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=0xcharr&theme=dark)
 
 </div>
 
