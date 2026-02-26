@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm char!
 
-### 🚀 Full Stack Developer | Creative Problem Solver
+### 🚀 Full Stack Developer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen?style=for-the-badge&logo=vercel)](https://portfolio-nine-lyart-7cz7yk6yke.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/0xcharr)
